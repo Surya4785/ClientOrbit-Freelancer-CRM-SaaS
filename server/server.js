@@ -14,6 +14,7 @@ app.use(cors());
 
 // Routes
 app.use("/api/auth", require("./routes/authRoutes"));
+app.use("/api/clients", require("./routes/clientRoutes"));
 
 app.get("/", (req, res) => {
   res.send("ClientOrbit API is running...");
