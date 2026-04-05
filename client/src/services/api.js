@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "/api",
+  baseURL: "https://clientorbit-backend.onrender.com/api",
 });
 
 API.interceptors.request.use((req) => {
