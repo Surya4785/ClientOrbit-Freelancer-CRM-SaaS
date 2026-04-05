@@ -156,14 +156,17 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-### Dashboard
-_Add your dashboard screenshot here later_
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
 
-### Login Page
-_Add login screenshot here later_
+### 📝 Register Page
+![Register Page](./screenshots/register.png)
 
-### Register Page
-_Add register screenshot here later_
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### ✏️ Edit Client
+![Edit Client](./screenshots/edit-client.png)
 
 ---
 
